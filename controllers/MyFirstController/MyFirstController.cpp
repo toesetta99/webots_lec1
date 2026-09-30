@@ -9,7 +9,7 @@ int main(int argc, char **argv) {
   webots::Robot robot {};
   
   webots::Motor* leftMotor{robot.getMotor("left wheel motor")};
-ffff 
+ 
 
   return 0;
 }
